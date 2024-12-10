@@ -23,7 +23,7 @@ driver.get("https://www.binance.com/ru/trade/BTC_USDT?_from=markets&type=spot")
 url_rub = "https://ru.investing.com/currencies/usd-rub"
 driver_rub = webdriver.Firefox()
 if __name__ == '__main__':
-    bot = telebot.TeleBot('7607501146:AAEXENz9G77IuvkLuWzwX7_xYQ8rW-DsVH4')
+    bot = telebot.TeleBot('YOUR_API') #Ваш API 
 
 
     @bot.message_handler(commands=["start"])
