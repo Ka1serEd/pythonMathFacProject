@@ -1,2 +1,3 @@
 # pythonMathFacProject
-My project for discipline 'Introduction in Python' in HSE math faculty 
+My project for discipline 'Introduction in Python' in HSE math faculty.
+Идея создания этого телеграмм бота довольно проста, сейчас очень можно так называемое HFT и криптовалюты, ну союственно думаю у меня есть друзья, которым кровь износу как хочется знать курс биткоина в такой-то момент времени. Используемые библиотеки 'Selenium', 'Pandas', 'Beautifullsoup', 'telebot', вообще говоря можно было написать без третьей, но буду честен я когда писал много эксперементировал, поэтому решил, что лучше оставить код(тем более он реально работает лучше в некоторых случаях, чем чисто selenium).
