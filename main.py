@@ -1,5 +1,4 @@
 import time
-
 import dataframe_image as dfi
 import pandas as pd
 import telebot
